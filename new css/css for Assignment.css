@@ -1,0 +1,84 @@
+header{
+}
+.banner img{width: 1320px;
+height: 600px;
+top: 50px;
+left: 140px;
+border-radius: 16px;
+angle: 0; text-shadow: #070211 #07021100;background-size: cover;
+background-position: center center;display: flex;justify-items: center;}
+
+.banner{position: relative;width:632px; }
+.banner-txt{position:absolute; text-shadow: #070211;
+top: 0;
+text-align: center;font-family:Merriweather;
+color: #FFFFFF; ;}/*banner layout
+*/
+.banner-txt h1{font-size: 72px;
+  font-weight: 900;
+  line-height: 95px;
+  letter-spacing: 0em;
+  height:190px;
+  top: 283px;
+  left: 484px;text-align: center ;}
+.texd{font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+line-height: 107px;
+letter-spacing: 0em;
+text-align: center; color: red
+; }
+.texd2{font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: center; color: red ;
+  }
+  .texd3{font-family:Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0em;
+    text-align: center; color: rgba(7, 2, 17, 1); margin-top: 48px;
+    }
+    .img2{text-align: center; }
+    .banner2{position: relative;text-align: start;}
+    .banner-txt2{position: absolute; margin: 100px;}
+    .sect2{width: 1320px;
+      height: 482px;
+      top: 2416px;
+      left: 140px;
+       text-align: center; background-color:antiquewhite;
+       display: block; justify-items: center;align-items: center;justify-content: center;margin-left: auto;}
+      .Place{color: red;}
+      .JOIN{background-color: red;color: #FFFFFF; border: none;}
+      .banner2{text-align: center;justify-content: center; }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
